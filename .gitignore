@@ -1,0 +1,7 @@
+*.csv
+backend/data/*.csv
+backend/data/tfidf_output/*
+backend/app/__pycache__/*
+backend/ai/__pycache__/*
+backend/models/*.joblib
+venv/
